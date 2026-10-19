@@ -1,0 +1,7 @@
+seed,case,max_absolute_error,passed
+0,Unmasked,1.7881393432617188e-07,True
+0,Causal,1.1920928955078125e-07,True
+1,Unmasked,1.7881393432617188e-07,True
+1,Causal,3.5762786865234375e-07,True
+2,Unmasked,1.1920928955078125e-07,True
+2,Causal,1.1920928955078125e-07,True

@@ -1,0 +1,10 @@
+seed,case,query_length,key_length,max_absolute_error,passed
+0,Self-attention,5,5,5.960464477539063e-08,True
+0,Causal self-attention,5,5,8.940696716308594e-08,True
+0,Cross-attention,5,7,5.960464477539063e-08,True
+1,Self-attention,5,5,5.960464477539063e-08,True
+1,Causal self-attention,5,5,7.450580596923828e-08,True
+1,Cross-attention,5,7,1.1920928955078125e-07,True
+2,Self-attention,5,5,7.636845111846924e-08,True
+2,Causal self-attention,5,5,7.450580596923828e-08,True
+2,Cross-attention,5,7,5.960464477539063e-08,True
