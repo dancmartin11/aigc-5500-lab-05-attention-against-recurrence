@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+.env/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large model and training outputs
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Operating system files
+.DS_Store
+Thumbs.db
