@@ -1,0 +1,10 @@
+configuration,norm,warmup,seed,depth,updates,learning_rate,accuracy,chance,above_chance,elapsed_seconds
+"Post-norm, no warmup",post,0,0,12,400,0.003,0.5519999861717224,0.5,0.05199998617172241,38.60439240001142
+"Post-norm, no warmup",post,0,1,12,400,0.003,0.5519999861717224,0.5,0.05199998617172241,33.03798399999505
+"Post-norm, no warmup",post,0,2,12,400,0.003,0.4480000138282776,0.5,-0.05199998617172241,38.82865570002468
+"Post-norm, 100-update warmup",post,100,0,12,400,0.003,1.0,0.5,0.5,35.17706749995705
+"Post-norm, 100-update warmup",post,100,1,12,400,0.003,1.0,0.5,0.5,33.98404680000385
+"Post-norm, 100-update warmup",post,100,2,12,400,0.003,1.0,0.5,0.5,33.825205700006336
+"Pre-norm, no warmup",pre,0,0,12,400,0.003,1.0,0.5,0.5,33.699348099995404
+"Pre-norm, no warmup",pre,0,1,12,400,0.003,1.0,0.5,0.5,41.981102299992926
+"Pre-norm, no warmup",pre,0,2,12,400,0.003,1.0,0.5,0.5,39.585415399982594
